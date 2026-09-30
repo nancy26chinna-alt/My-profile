@@ -1,47 +1,93 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,0&height=220&section=header&text=Hey%20There!%20I'm%20J.%20Nancy%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=3rd%20Year%20IT%20Student%20%7C%20Frontend%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=57&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=28&text=%E2%9A%A1%20BUILDING%20REAL-WORLD%20WEB%20PROJECTS&fontSize=13&fontColor=FF6B6B&fontAlignY=62" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=J.%20NANCY&fontSize=78&fontColor=ffffff&fontAlignY=60&desc=B.TECH%20INFORMATION%20TECHNOLOGY%20%C2%B7%20FRONTEND%20DEVELOPER%20%C2%B7%20WEB%20ENTHUSIAST&descSize=13&descColor=aaaaaa&descAlignY=82" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=32&text=%3C%2F%3E%20%20TURNING%20IDEAS%20INTO%20BEAUTIFUL%20WEB%20EXPERIENCES&fontSize=13&fontColor=666666&fontAlignY=62" width="100%" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Frontend+Developer+%40+Jeppiaar+Institute;Building+Real-World+Web+Apps+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Turning+Ideas+into+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FF6B6B?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/nancy-j-8b4755337)&nbsp;
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-FF6B6B?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](YOUR_INSTAGRAM_URL)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LEETCODE-SOLVE-FF6B6B?style=flat-square&logo=leetcode&logoColor=white&labelColor=000000)](https://leetcode.com/u/Nancy_James/)&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-FF6B6B?style=flat-square&logo=gmail&logoColor=white&labelColor=000000)](mailto:nancy26.chinna@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-FF6B6B?style=flat-square&logo=github&logoColor=white&labelColor=000000)](https://github.com/nancy26chinna-alt)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nancy26chinna-alt&label=Profile%20Views&color=FF6B6B&style=flat-square)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🔴 About Me
+
+<div align="center">
+
+### *Driven by curiosity. Building for impact. Coding the future.*
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
+
+</div>
+
+Hey! I am **J. Nancy**, a passionate B.Tech Information Technology student and frontend developer based in **Chennai, India**.
+I specialize in building **responsive, beautiful web applications** using React.js and Tailwind CSS, and I am actively expanding into backend technologies to become a full-stack developer.
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-00D4AA?style=flat-square&labelColor=000000)&nbsp;
+![Degree](https://img.shields.io/badge/Degree-B.Tech%20IT-ffffff?style=flat-square&labelColor=000000)&nbsp;
+![Focus](https://img.shields.io/badge/Focus-Frontend%20%26%20Full%20Stack-FF6B6B?style=flat-square&labelColor=000000)
+
+</div>
+
+🌱 **Currently Exploring:** Node.js, Express.js, MySQL & MongoDB
+
+⚡ **Philosophy:** *"Every line of code brings me one step closer to becoming a full-stack developer!"*
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="25%">
 
-### 🪪 Profile
+🚀 **Flagship Project**
 
-| | |
-|:---|:---|
-| 👤 **Name** | J. Nancy |
-| 🎓 **Degree** | B.Tech – Information Technology |
-| 🏫 **College** | Jeppiaar Institute of Technology |
-| 📅 **Year** | 3rd Year |
-| 📍 **Location** | Chennai, Tamil Nadu |
+[Student Hub Platform](YOUR_GITHUB_PROJECT_LINK)
+
+Internship & Hackathon Discovery
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 
-### 🎯 Focus Areas
+📚 **Active Deep Dives**
 
-| | |
-|:---|:---|
-| 💡 **Interests** | Web Development & UI Design |
-| 🚀 **Goal** | Become a Full-Stack Developer |
-| 🌱 **Currently** | Exploring Backend & Databases |
-| 🏆 **Strength** | Frontend Development |
-| 📬 **Open To** | Internships & Collaborations |
+Node.js & Express.js
+
+REST APIs & Database Design
+
+</td>
+<td align="center" width="25%">
+
+🎨 **Strength**
+
+Frontend Development
+
+React, HTML, CSS, JS
+
+</td>
+<td align="center" width="25%">
+
+🤝 **Collaboration**
+
+Web Projects & UI Design
+
+Open to Internships
 
 </td>
 </tr>
@@ -49,80 +95,19 @@
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nancy26chinna-alt&label=Profile%20Views&color=00D4AA&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/nancy26chinna-alt?label=Followers&style=flat-square&color=00D4AA)](https://github.com/nancy26chinna-alt)
-
-</div>
-
 ---
 
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-Basics-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Basics-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🎨 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Development *(Learning)*
-
-![Node.js](https://img.shields.io/badge/Node.js-Beginner-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-Beginner-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database *(Learning)*
-
-![MySQL](https://img.shields.io/badge/MySQL-Beginner-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-AI%20IDE-00D4AA?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-| 🎨 Frontend Mastery | ⚙️ Backend Basics | 🗄️ Database Essentials |
-|:---:|:---:|:---:|
-| Advanced React.js | Node.js & Express.js | MySQL Queries |
-| Responsive Design | REST API Development | MongoDB CRUD |
-| UI/UX Principles | Server-Side Logic | Database Design |
-
-</div>
-
----
-
-## 🚀 Projects
+## 🔴 Featured Project Spotlight
 
 <div align="center">
 
 ### 🎓 Student / Internship & Hackathon Hub
 
-</div>
+*A web platform that connects students, colleges & companies — bringing internship and hackathon opportunities together in one place.*
 
-> 🌐 **A web platform that brings internship opportunities and hackathon events together in one place.**
-> Designed to help **students, colleges, and companies** connect and access relevant opportunities with ease.
-
-<div align="center">
+[![Visit Platform](https://img.shields.io/badge/%E2%98%85%20VISIT%20PLATFORM-FF6B6B?style=flat-square&labelColor=000000)](YOUR_GITHUB_PROJECT_LINK)&nbsp;
+[![Source Code](https://img.shields.io/badge/%E2%8A%99%20SOURCE%20CODE-333333?style=flat-square&logo=github&logoColor=white&labelColor=000000)](YOUR_GITHUB_PROJECT_LINK)&nbsp;
+[![View All Projects](https://img.shields.io/badge/%E2%89%A1%20VIEW%20PROJECTS-00D4AA?style=flat-square&labelColor=000000)](https://github.com/nancy26chinna-alt)
 
 | Detail | Info |
 |:---|:---|
@@ -133,21 +118,44 @@
 | 👥 **Target Users** | Students, Colleges & Companies |
 | 🔗 **Status** | 🚧 Under Development |
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_PROJECT_LINK)
+</div>
+
+---
+
+## ✨ LeetCode Problem Solving
+
+<div align="center">
+
+*Live tracker of coding challenges & algorithmic problem-solving milestones.*
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Nancy_James?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Nancy_James/)
+
+[![LeetCode Profile](https://img.shields.io/badge/LEETCODE-VISIT%20PROFILE-FF6B6B?style=flat-square&logo=leetcode&logoColor=white&labelColor=000000)](https://leetcode.com/u/Nancy_James/)&nbsp;
+[![Problems Solved](https://img.shields.io/badge/PROBLEMS%20SOLVED-LIVE%20TRACKER-333333?style=flat-square&labelColor=000000)](https://leetcode.com/u/Nancy_James/)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🔧 Tech Stack & Skills
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nancy26chinna-alt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nancy-j-8b4755337)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nancy_James/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nancy26.chinna@gmail.com)
+**Core Programming Languages**
+
+[![Skills](https://skillicons.dev/icons?i=java,python,js&theme=dark)](https://skillicons.dev)
+
+**Frontend & Web Development**
+
+[![Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,figma&theme=dark)](https://skillicons.dev)
+
+**Backend, Cloud & Databases** *(Learning)*
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark)](https://skillicons.dev)
+
+**Tools & DevOps**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -157,14 +165,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nancy26chinna-alt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B9D&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancy26chinna-alt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nancy26chinna-alt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FF6B6B&icon_color=00D4AA&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancy26chinna-alt&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=000000&title_color=FF6B6B&text_color=ffffff" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nancy26chinna-alt&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=FF6B9D&currStreakLabel=00D4AA)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nancy26chinna-alt&theme=black-ice&hide_border=true&background=000000&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=ffffff&dates=888888)
 
 </div>
 
@@ -174,17 +182,65 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nancy26chinna-alt&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nancy26chinna-alt&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## ⚡ Contribution Journey
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy26chinna-alt&theme=tokyo-night&bg_color=0D1117&color=00D4AA&line=FF6B9D&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy26chinna-alt&theme=github-compact&bg_color=000000&color=FF6B6B&line=00D4AA&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🔗 Let's Connect & Collaborate
+
+<div align="center">
+
+*Whether you want to discuss web development, collaborate on projects, or just say hello — my inbox is always open!*
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" height="80" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FF6B6B?style=flat-square&labelColor=000000)](https://www.linkedin.com/in/nancy-j-8b4755337)
+
+Professional Network
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/120px-Instagram_logo_2022.svg.png" width="80" height="80" />
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-FF6B6B?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](YOUR_INSTAGRAM_URL)
+
+Personal Updates
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" width="80" height="80" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT%20ME-FF6B6B?style=flat-square&logo=gmail&logoColor=white&labelColor=000000)](mailto:nancy26.chinna@gmail.com)
+
+Direct Collaboration
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -192,12 +248,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,0&height=120&section=footer&animation=fadeIn" width="100%" />
+**• ♦ •**
 
-### 🌱 Keep Learning. Keep Building. Keep Growing.
+`CRAFTED WITH PASSION BY J. NANCY • © 2026`
 
-**Thanks for visiting my GitHub profile! 😊**
-
-*— J. Nancy | Frontend Developer in Progress | Jeppiaar Institute of Technology, Chennai*
+*B.Tech IT Student | Jeppiaar Institute of Technology, Chennai*
 
 </div>
