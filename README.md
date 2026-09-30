@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=NANCY%20JAMES&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=B.TECH%20IT%20%C2%B7%20FRONTEND%20DEVELOPER%20%C2%B7%20WEB%20ENTHUSIAST&descSize=16&descColor=aaaaaa&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,255,107,107,0,0,0&height=280&section=header&text=NANCY%20JAMES&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=B.TECH%20IT%20%C2%B7%20FRONTEND%20DEVELOPER%20%C2%B7%20WEB%20ENTHUSIAST&descSize=16&descColor=aaaaaa&descAlignY=60" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%E2%9A%A1+BUILDING+REAL-WORLD+WEB+PROJECTS;%3C%2F%3E+TURNING+IDEAS+INTO+BEAUTIFUL+WEB+EXPERIENCES;%F0%9F%9A%80+CRAFTING+DIGITAL+SOLUTIONS+FOR+THE+FUTURE)](https://git.io/typing-svg)
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔴 About Me
+<h2 align="center">🔴 About Me</h2>
 
 <div align="center">
 
@@ -33,8 +33,8 @@
 
 </div>
 
-Hey! I am **J. Nancy**, a passionate B.Tech Information Technology student and frontend developer based in **Chennai, India**.
-I specialize in building **responsive, beautiful web applications** using React.js and Tailwind CSS, and I am actively expanding into backend technologies to become a full-stack developer.
+        Hey! I am **J. Nancy**, a passionate B.Tech Information Technology student and frontend developer based in **Chennai, India**.
+        I specialize in building **responsive, beautiful web applications** using React.js and Tailwind CSS, and I am actively expanding into backend technologies to become a full-stack developer.
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Open to Internships
 
 ---
 
-## 🔴 Featured Project Spotlight
+<h2 align="center">🔴 Featured Project Spotlight</h2>
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Open to Internships
 
 ---
 
-## ✨ LeetCode Problem Solving
+<h2 align="center">✨ LeetCode Problem Solving</h2>
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Open to Internships
 
 ---
 
-## 🔧 Tech Stack & Skills
+<h2 align="center">🔧 Tech Stack & Skills</h2>
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Open to Internships
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
@@ -176,7 +176,7 @@ Open to Internships
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
 
@@ -186,18 +186,18 @@ Open to Internships
 
 ---
 
-## ⚡ Contribution Journey
+<h2 align="center">⚡ Contribution Journey</h2>
 
 <div align="center">
 
-![Activity Graph](<img src ="https://preview.redd.it/does-github-contributions-matter-v0-181pw4gku7ge1.png?auto=webp&s=b45ee2997034e464678b1837aa51deb404609a8b">)
+
 <img src ="https://preview.redd.it/does-github-contributions-matter-v0-181pw4gku7ge1.png?auto=webp&s=b45ee2997034e464678b1837aa51deb404609a8b">
 
 </div>
 
 ---
 
-## 🔗 Let's Connect & Collaborate
+<h2 align="center">🔗 Let's Connect & Collaborate</h2>
 
 <div align="center">
 
@@ -205,7 +205,7 @@ Open to Internships
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" height="80" />
 
@@ -215,10 +215,8 @@ Open to Internships
 
 Professional Network
 
-
-
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" width="80" height="80" />
 
