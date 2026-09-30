@@ -1,10 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=28&text=%E2%9A%A1%20BUILDING%20REAL-WORLD%20WEB%20PROJECTS&fontSize=13&fontColor=FF6B6B&fontAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=NANCY%20JAMES&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=B.TECH%20IT%20%C2%B7%20FRONTEND%20DEVELOPER%20%C2%B7%20WEB%20ENTHUSIAST&descSize=16&descColor=aaaaaa&descAlignY=60" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=J.%20NANCY&fontSize=78&fontColor=ffffff&fontAlignY=60&desc=B.TECH%20INFORMATION%20TECHNOLOGY%20%C2%B7%20FRONTEND%20DEVELOPER%20%C2%B7%20WEB%20ENTHUSIAST&descSize=13&descColor=aaaaaa&descAlignY=82" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=32&text=%3C%2F%3E%20%20TURNING%20IDEAS%20INTO%20BEAUTIFUL%20WEB%20EXPERIENCES&fontSize=13&fontColor=666666&fontAlignY=62" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%E2%9A%A1+BUILDING+REAL-WORLD+WEB+PROJECTS;%3C%2F%3E+TURNING+IDEAS+INTO+BEAUTIFUL+WEB+EXPERIENCES;%F0%9F%9A%80+CRAFTING+DIGITAL+SOLUTIONS+FOR+THE+FUTURE)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +11,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FF6B6B?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/nancy-j-8b4755337)&nbsp;
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-FF6B6B?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](YOUR_INSTAGRAM_URL)&nbsp;
+
 [![LeetCode](https://img.shields.io/badge/LEETCODE-SOLVE-FF6B6B?style=flat-square&logo=leetcode&logoColor=white&labelColor=000000)](https://leetcode.com/u/Nancy_James/)&nbsp;
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-FF6B6B?style=flat-square&logo=gmail&logoColor=white&labelColor=000000)](mailto:nancy26.chinna@gmail.com)
 
@@ -192,7 +190,8 @@ Open to Internships
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nancy26chinna-alt&theme=github-compact&bg_color=000000&color=FF6B6B&line=00D4AA&point=ffffff&area=true&hide_border=true)
+![Activity Graph](<img src ="https://preview.redd.it/does-github-contributions-matter-v0-181pw4gku7ge1.png?auto=webp&s=b45ee2997034e464678b1837aa51deb404609a8b">)
+<img src ="https://preview.redd.it/does-github-contributions-matter-v0-181pw4gku7ge1.png?auto=webp&s=b45ee2997034e464678b1837aa51deb404609a8b">
 
 </div>
 
@@ -216,16 +215,7 @@ Open to Internships
 
 Professional Network
 
-</td>
-<td align="center" width="33%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/120px-Instagram_logo_2022.svg.png" width="80" height="80" />
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-FF6B6B?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](YOUR_INSTAGRAM_URL)
-
-Personal Updates
 
 </td>
 <td align="center" width="33%">
@@ -250,7 +240,7 @@ Direct Collaboration
 
 **• ♦ •**
 
-`CRAFTED WITH PASSION BY J. NANCY • © 2026`
+`CRAFTED WITH PASSION BY NANCY JAMES • © 2026`
 
 *B.Tech IT Student | Jeppiaar Institute of Technology, Chennai*
 
